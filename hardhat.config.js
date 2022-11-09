@@ -19,8 +19,8 @@
 //   }
 // };
 require('@nomiclabs/hardhat-ethers')
-const API_URL = "https://eth-goerli.g.alchemy.com/v2/hdro9a_zPwjGvgFNSUGGD6VFRp14v2WR";
-const PRIVATE_KEY = "486d160e788842eefb67f0c395f02b249e20f41f835d67afc2f992c38279775c"
+const API_URL = "";
+const PRIVATE_KEY = ""
 // const PUBLIC_KEY = "Your Account Address";
 
 module.exports = {
